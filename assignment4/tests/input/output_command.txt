@@ -1,0 +1,5 @@
+cat newInputFile1 > newOutputFile3
+cat newOutputFile3
+cat < newInputFile1 | tr a-z A-Z > newOutputFile4
+cat newOutputFile4
+exit

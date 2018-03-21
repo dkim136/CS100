@@ -1,0 +1,7 @@
+Testing exit command
+
+Enter Command: 
+$ a
+b
+
+Test Complete

@@ -1,0 +1,4 @@
+cat < newInputFile1 | tr a-z A-Z
+ls | head -3
+ls | head -3 | tail -1
+exit

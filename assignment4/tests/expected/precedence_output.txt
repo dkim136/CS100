@@ -1,0 +1,24 @@
+Testing precedence
+
+Enter Command: 
+$ a
+d
+Enter Command: 
+$ a
+b
+Enter Command: 
+$ a
+d
+Enter Command: 
+$ a
+d
+Enter Command: 
+$ a
+e
+f
+b
+c
+d
+Enter Command: 
+$ 
+Test Complete

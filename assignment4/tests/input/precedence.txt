@@ -1,0 +1,6 @@
+echo a || (echo b && ls -j) && echo d  # should echo a and d
+(echo a && echo b)
+echo a || (echo e && echo b && ls -j && echo c) && echo d
+echo a || ((echo e && echo b && ls -j && echo c)) && echo d
+echo a && (echo e && (echo f || echo g) && echo b && echo c) && echo d
+exit

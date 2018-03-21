@@ -1,0 +1,13 @@
+Testing multiple commands
+
+Enter Command: 
+$ a
+b
+c
+Enter Command: 
+$ 1
+3
+4
+Enter Command: 
+$ 
+Test Complete

@@ -1,0 +1,11 @@
+Testing output redirect
+
+Enter Command: 
+$ Enter Command: 
+$ Testing Piping
+Enter Command: 
+$ Enter Command: 
+$ TESTING PIPING
+Enter Command: 
+$ 
+Test Complete

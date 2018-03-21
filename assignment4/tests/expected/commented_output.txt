@@ -1,0 +1,17 @@
+Testing commands with comments
+
+Enter Command: 
+$ a
+b
+Enter Command: 
+$ 1
+2
+3
+Enter Command: 
+$ Error No Command 
+Enter Command: 
+$ a
+b
+Enter Command: 
+$ 
+Test Complete

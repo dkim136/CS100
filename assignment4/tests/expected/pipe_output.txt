@@ -1,0 +1,13 @@
+Testing piping
+
+Enter Command: 
+$ TESTING PIPING
+Enter Command: 
+$ append_redirect_test.sh
+commented_command.sh
+exit.sh
+Enter Command: 
+$ exit.sh
+Enter Command: 
+$ 
+Test Complete

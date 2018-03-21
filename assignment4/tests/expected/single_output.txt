@@ -1,0 +1,32 @@
+Testing a single command
+
+Enter Command: 
+$ .
+..
+append_redirect_test.sh
+cleanup.sh
+commented_command.sh
+exit.sh
+expected
+input
+input_redirect_test.sh
+multi_command.sh
+newInputFile1
+newOutputFile1
+newOutputFile2
+newOutputFile3
+newOutputFile4
+output_redirect_test.sh
+pipe_test.sh
+precedence.sh
+run_tests.sh
+setup.sh
+single_command.sh
+test_command.sh
+testing.sh
+Enter Command: 
+$ Enter Command: 
+$ 3
+Enter Command: 
+$ 
+Test Complete

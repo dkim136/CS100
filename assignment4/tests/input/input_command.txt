@@ -1,0 +1,3 @@
+cat < newInputFile1
+cat < newOutputFile1
+exit

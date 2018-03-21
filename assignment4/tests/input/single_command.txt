@@ -1,0 +1,4 @@
+ls -a
+touch hello
+echo 3
+exit

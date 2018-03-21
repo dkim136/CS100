@@ -1,0 +1,3 @@
+echo appending >> newOutputFile1
+cat newOutputFile1
+exit

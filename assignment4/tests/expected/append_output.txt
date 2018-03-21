@@ -1,0 +1,10 @@
+Testing appending command
+
+Enter Command: 
+$ Enter Command: 
+$ This is for 
+appendings
+appending
+Enter Command: 
+$ 
+Test Complete

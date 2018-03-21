@@ -1,0 +1,9 @@
+Testing input redirect
+
+Enter Command: 
+$ Testing Piping
+Enter Command: 
+$ This is for 
+Enter Command: 
+$ 
+Test Complete
